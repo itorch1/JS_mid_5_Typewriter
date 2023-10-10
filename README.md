@@ -1,3 +1,3 @@
 # Typewriter
  
-A cool typewriter effect using vanilla JS
+A cool typewriter effect implemeneted via vanilla JS
